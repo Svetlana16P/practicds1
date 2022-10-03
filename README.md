@@ -5,3 +5,7 @@
 # Практичекая работа 2
 
 - [Отчёт по ПР2](practice/PeteshovaSV_otchet_2.pdf).
+
+# Практичекая работа 3
+
+- [Отчёт по ПР3](practice/PeteshovaSV_otchet_3.pdf).
