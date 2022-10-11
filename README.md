@@ -9,3 +9,6 @@
 # Практичекая работа 3
 
 - [Отчёт по ПР3](practice/PeteshovaSV_otchet_3.pdf).
+# Практичекая работа 4
+
+- [Отчёт по ПР4](practice/PeteshovaSV_otchet_4%20(failure-detection).pdf).
