@@ -12,3 +12,7 @@
 # Практичекая работа 4
 
 - [Отчёт по ПР4](practice/PeteshovaSV_otchet_4%20(failure-detection).pdf).
+
+# Практичекая работа 5
+
+- [Отчёт по ПР5](practice/PeteshovaSV_otchet_5(ZeroMQ).pdf).
