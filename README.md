@@ -16,3 +16,7 @@
 # Практичекая работа 5
 
 - [Отчёт по ПР5](practice/PeteshovaSV_otchet_5(ZeroMQ).pdf).
+
+# Практичекая работа 6
+
+- [Отчёт по ПР6](practice/PeteshovaSV_otchet_6 (Hadoop+sr).pdf).
