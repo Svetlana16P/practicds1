@@ -19,4 +19,4 @@
 
 # Практичекая работа 6
 
-- [Отчёт по ПР6](practice/PeteshovaSV_otchet_6 (Hadoop+sr).pdf).
+- [Отчёт по ПР6](practice/PeteshovaSV_otchet_6%20(Hadoop%2Bsr).pdf).
